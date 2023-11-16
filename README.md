@@ -29,7 +29,16 @@ Train-Test Splitting(80-20)
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/07e75c0c-98bb-4649-80bf-ff5494280268)
 
- Model-Creation and Prediction -- 1 (MultinomialNB)
+Function For Predicting Language 
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/46c4688c-bc83-4acb-9c4d-d85eb79e40ec)
+
+Extracting Data from Image and calling predict if text exists
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/1612d862-f8a7-46b7-82ca-504cc46adc6b)
+
+
+Model-Creation and Prediction -- 1 (MultinomialNB)
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/f3656aa1-6bfd-4574-a551-c6b4e6fd0373)
 
