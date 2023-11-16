@@ -29,6 +29,9 @@ Train-Test Splitting(80-20)
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/07e75c0c-98bb-4649-80bf-ff5494280268)
 
+ Model-Creation and Prediction -- 1 (MultinomialNB)
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/f3656aa1-6bfd-4574-a551-c6b4e6fd0373)
 
 ## Requirements
 
