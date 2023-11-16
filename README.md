@@ -1,11 +1,9 @@
-# Language Detection usind different ML algorithms
+#Multilingual Text Classification: Language Detection with Machine Learning Algorithms
 
 
-## Overview
+Description
 
-This repository contains a project that implements a Multinomial Naive Bayes Machine Learning model to classify the text language from images. The model is trained on a dataset of newspaper snippets written in three different languages: English, Hindi, etc. The dataset is mixture of data obtained from Kaggle notebooks.
-
-The goal of this project is to showcase how to extract text from images using Optical Character Recognition (OCR) and then use different algorithms to predict the language of the extracted text.
+Our project focuses on the development and comparison of machine learning models for accurate language detection in multilingual text data. Language detection is a crucial component in various applications, such as content filtering, language-specific services, and global customer support. By leveraging different machine learning algorithms, we aim to build a robust language detection system that excels in accuracy, efficiency, and adaptability.
 
 ## Requirements
 
