@@ -38,9 +38,16 @@ Extracting Data from Image and calling predict if text exists
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/1612d862-f8a7-46b7-82ca-504cc46adc6b)
 
 
-Model-Creation and Prediction -- 1 (MultinomialNB)
+## Model-Creation and Prediction -- 1 (MultinomialNB)
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/f3656aa1-6bfd-4574-a551-c6b4e6fd0373)
+
+Accuracy , Confusion Matrix and Classification report
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/d720f31a-a29d-49b5-969b-00f125120c4f)
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/6c1a0c9b-da1b-4f0d-aa8a-d4686b8da658)
+
 
 ## Requirements
 
