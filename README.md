@@ -48,6 +48,23 @@ Accuracy , Confusion Matrix and Classification report
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/6c1a0c9b-da1b-4f0d-aa8a-d4686b8da658)
 
+## Model-Creation and Prediction -- 2 (Random Forest)
+
+Accuracy , Confusion Matrix and Classification report
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/576b7145-1c9c-4fcb-9206-6f63474d3560)
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/91f40627-4960-4cd9-b38a-34bd667a1353)
+
+## Model-Creation and Prediction -- 3 (K Nearest Neighbour)
+
+Accuracy , Confusion Matrix and Classification report
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/19277e65-2610-40be-aef0-31afc0612b4e)
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/4a84e259-a2b3-450a-be64-ee0f452a7155)
+
+
+
+
 
 ## Requirements
 
