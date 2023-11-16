@@ -9,22 +9,8 @@ Our project focuses on the development and comparison of machine learning models
 
 IMPORTING LIBRARIES AND DATASET
 
-import pandas as pd
-import numpy as np
-import re
-import seaborn as sns
-import matplotlib.pyplot as plt
-import warnings
-import pytesseract
-import os
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/1d4c0dea-4b5e-4efe-aa6b-c55ce7d98c7e)
 
-# Set Tesseract path
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-
-warnings.simplefilter("ignore")
-
-# Loading the dataset
-data = pd.read_csv(r"C:\Users\91896\Desktop\ML-Language_Detection\MAIN\Language Detection55.csv")
 
 
 ## Requirements
