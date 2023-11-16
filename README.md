@@ -25,6 +25,10 @@ Removing Symbols and Numbers
 
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/5c28ceec-f435-4345-9de4-95acd3727998)
 
+Train-Test Splitting(80-20)
+
+![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/07e75c0c-98bb-4649-80bf-ff5494280268)
+
 
 ## Requirements
 
