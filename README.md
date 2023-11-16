@@ -1,4 +1,4 @@
-#Multilingual Text Classification: Language Detection with Machine Learning Algorithms
+# Multilingual Text Classification: Language Detection with Machine Learning Algorithms
 
 
 Description
