@@ -74,7 +74,7 @@ Robust and handles non-linear relationships well.
 Can capture complex interactions between features.
 
 
-##WHY NAIVE BAYES AND RANDOM FOREST OVER KNN
+## WHY NAIVE BAYES AND RANDOM FOREST OVER KNN
 
 Use Naive Bayes When:
 
