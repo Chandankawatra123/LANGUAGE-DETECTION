@@ -63,6 +63,30 @@ Accuracy , Confusion Matrix and Classification report
 ![image](https://github.com/Chandankawatra123/LANGUAGE-DETECTION/assets/100226305/4a84e259-a2b3-450a-be64-ee0f452a7155)
 
 
+## NAIVE BAYES 
+Strengths:
+Efficient and performs well on high-dimensional data.
+Particularly effective for text classification and spam filtering.
+
+## RANDOM FOREST
+Strengths:
+Robust and handles non-linear relationships well.
+Can capture complex interactions between features.
+
+
+##WHY NAIVE BAYES AND RANDOM FOREST OVER KNN
+
+Use Naive Bayes When:
+
+Dealing with text data, especially in natural language processing (NLP) tasks.
+Features are conditionally independent given the class label.
+Computational efficiency is crucial, as Naive Bayes is computationally inexpensive.
+Use Random Forest When:
+
+The dataset exhibits complex relationships and interactions between features.
+Robustness against overfitting is essential.
+A balance between interpretability and predictive performance is needed.
+
 
 
 
